@@ -1,0 +1,18 @@
+/*
+* [CC Attack ++ CSS] Power by Mason
+* Version : V1.0 (BUILD_2023_2_17_21:10)
+* Email : admin@almondnet.cn
+* Github : https://github.com/MasonDye/CCAttack++
+*/
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input {
+    height: 35px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    outline: none;
+}
